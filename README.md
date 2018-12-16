@@ -1,4 +1,4 @@
-# pipeline-architecture-gauss-filter-based-on-FPGA-for-video
+# pipeline-architecture-gauss-filter
 
 This IP is completely free and open source, and you can use it to do anything good for the world.
 
